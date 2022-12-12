@@ -1,4 +1,4 @@
-x = 4
-y = 2
+def says_hello():
+    print("hello")
 
-print('the result is ', x+y)
+says_hello
